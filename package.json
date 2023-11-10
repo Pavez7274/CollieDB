@@ -1,0 +1,23 @@
+{
+  "name": "collie-db",
+  "version": "0.0.2",
+  "description": "A Simple JSON DB",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [
+    "kodeko studios",
+    "json database",
+    "database",
+    "jsondb",
+    "db"
+  ],
+  "author": "Kodeko Studios",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "4.14.200",
+    "@types/node": "20.8.7"
+  },
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
+}
